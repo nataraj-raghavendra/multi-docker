@@ -18,3 +18,4 @@ after_success:
     - docker push raghavendranataraj/multi-nginx
     - docker push raghavendranataraj/multi-server
     - docker push raghavendranataraj/multi-worker
+
